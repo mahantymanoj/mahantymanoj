@@ -53,9 +53,9 @@ I am interested in learning Data Science, Machine Learning, and Analytics and wo
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg"></code> <!-- Matplot lib -->
 
 <h3>Miscellaneous:</h3>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code> <!-- C Language -->
-<code><img height="40" width="40" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png"></code> <!-- C++ -->
+
 <code><img height="40" width="40" src="https://julialang.gallerycdn.vsassets.io/extensions/julialang/language-julia-insider/1.5.6/1637366211768/Microsoft.VisualStudio.Services.Icons.Default"></code> <!-- Julia -->
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/java-3628857-3029997.png"></code> <!-- Java -->
+<code><img height="40" width="40" src="https://e7.pngegg.com/pngimages/473/621/png-clipart-xml-computer-icons-data-uri-scheme-favicon-xml-angle-text.png"></code> <!-- XML -->
+<code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkuY9-iqBPIa7b40cY5diViI7c_vhSoCRuPA&usqp=CAU"></code> <!-- XML -->
 
 <br/>
