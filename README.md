@@ -15,7 +15,8 @@ I am interested in learning Data Science, Machine Learning, and Analytics and wo
 - 😄 Nick Name: Mahy
 - ⚡ Fun fact: I 💖 Bugs more then my GF, Single 🤣.
 - 📫 Email me at [mahantymanoj786@gmail.com](mailto:mahantymanoj786@gmail.com).
-- 🎢 Profile Visitors Count: ![](https://visitor-badge.glitch.me/badge?page_id=rajat-9-6)
+- 🎢 Profile Visitors Count: 
+- ![](https://visitor-badge.glitch.me/badge?page_id=rajat-9-6)
 
 <!-- <details> -->
 <!-- <summary> Connect with me🤝: </summary> -->
