@@ -8,7 +8,7 @@ I am interested in learning Big Data, HDFS, Hadoop Eco System and Spark would �
 <!-- Here are some ideas to get you started: -->
 
   - 🔭 I’m currently working on Project which is on Python & Web Scrapping 10Q and 10K filing data from <a href="https://www.sec.gov/">SEC</a>.
-- 🌱 I’m currently learning Python for Big Data 📉 and Spark and Hadoop Eco system.
+- 🌱 I’m currently learning Python for Big Data, Spark and Hadoop Eco system.
 - 👯 I’m looking to collaborate with Big Data Engineer, Data Analyst,and Quantitative Analytics 📉.
 - 🤔 I’m looking for help with Big Data Engineering.
 - 💬 Ask me about Python, Web Scarapping, MATLAB, and SQL.
