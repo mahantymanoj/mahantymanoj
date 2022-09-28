@@ -1,15 +1,15 @@
 👋 Hi there   
 About me 🧑
 
-I am a Programmer, Strong Engineering professional skilled in MATLAB, 🐍Python, SQL, Advance Excel, and Bloomberg Terminal.<br/>
-Currently I'm working as a Jr Engineer - Data Analytics (Data Engineer) at <a href='https://www.transparentvalue.in/'> Guggenheim Transparent Value</a>.<br/>
+I am a Programmer, Strong Engineering professional skilled in🐍Python, JavaScript,SQL, Advance Excel, MATLAB, and Bloomberg Terminal.<br/>
+Currently I'm working as a SDE - I, Data Collection at <a href='https://bungeetech.com/'> Bungee Tech</a>.<br/>
 I am interested in learning Big Data, HDFS, Hadoop Eco System and Spark would ♥️ to grow my knowledge in these Technologies.
 
 <!-- Here are some ideas to get you started: -->
 
-  - 🔭 I’m currently working on Project which is on Python & Web Scrapping 10Q and 10K filing data from <a href="https://www.sec.gov/">SEC</a>.
-- 🌱 I’m currently learning Python for Big Data, Spark and Hadoop Eco system.
-- 👯 I’m looking to collaborate with Big Data Engineer, Data Analyst,and Quantitative Analytics 📉.
+<!--   - 🔭 I’m currently working on Project which is on Python & Web Scrapping 10Q and 10K filing data from <a href="https://www.sec.gov/">SEC</a>. -->
+- 🌱 I’m currently learning ECMAScript 6, and also interested in Python for Big Data, Spark and Hadoop Eco system.
+- 👯 I’m looking to collaborate with Data Engineer, and Big Data Engineer - Analytics 📉.
 - 🤔 I’m looking for help with Big Data Engineering.
 - 💬 Ask me about Python, Web Scarapping, MATLAB, and SQL.
 - 😄 Nick Name: Mahy
