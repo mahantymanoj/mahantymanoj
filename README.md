@@ -15,7 +15,8 @@ I am interested in learning Big Data, HDFS, Hadoop Eco System and Spark would �
 - 😄 Nick Name: Mahy
 - ⚡ Fun fact: I 💖 Bugs more then my GF, Single 🤣.
 - 📫 Email me at [mahantymanoj786@gmail.com](mailto:mahantymanoj786@gmail.com).
-- 🎢 Profile Visitors Count: ![](https://visitor-badge.glitch.me/badge?page_id=mahantymanoj)
+- 🎢 Profile Visitors Count: ![](https://komarev.com/ghpvc/?username=mahantymanoj) 
+
 
 <!-- <details> -->
 <!-- <summary> Connect with me🤝: </summary> -->
