@@ -28,15 +28,15 @@ I am interested in learning Big Data, HDFS, Hadoop Eco System and Spark would �
 <a target="_blank"><img align="left" height="600" width="500" alt="𝙶𝙸𝙵" src="https://octodex.github.com/images/mona-the-rivetertocat.png"></a>
 <br/>
 
-<h3>PROGRAMMING LANGUAGES:</h3>
+<h3>PROGRAMMING LANGUAGES, & DATABASE 🛢</h3>
 
 <code><img height="35" width="35" alt="Python" src="https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg"></code><!--  Python -->
 <code><img height="35" width="35" src="https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/49/97/49/49974975-18b1-97bb-cc70-049cf9be5e0a/AppIcon-1x_U007emarketing-0-6-0-85-220.png/1200x630wa.png"></code> <!--  MATLAB -->
 <code><img height="35" width="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR1EN9xgMCVGVw9FXLciW7Sw9bYxaVpuwyH93QWEJjxHQyeWNFUaHShfzydQWlmw92Fcc&usqp=CAU"></code><!--  JavaScript -->
-
-<h3>DATABASE 🛢</h3>
-
 <code><img height="35" width="35" src="https://cdn.imgbin.com/8/1/6/imgbin-microsoft-sql-server-database-server-computer-icons-table-qampZ2chsPtnqieZxe7ti8PxN.jpg"></code> <!--  SQL -->
+<code><img height="35" width="35" src="https://banner2.cleanpng.com/20180531/wkx/kisspng-computer-icons-mysql-database-5b109011d4a3d0.393444881527812113871.jpg"></code> <!--  MySQL -->
+<code><img height="35" width="35" src="https://www.pngfind.com/pngs/m/168-1682595_source-ericsaupe-com-report-mysql-logo-png-postgresql.png"></code> <!--  PostgreSQL -->
+
 
 <h3>TOOLS 🛠</h3>
 
