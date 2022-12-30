@@ -28,7 +28,7 @@ I am interested in learning Big Data, HDFS, Hadoop Eco System and Spark would �
 <a target="_blank"><img align="left" height="600" width="500" alt="𝙶𝙸𝙵" src="https://octodex.github.com/images/mona-the-rivetertocat.png"></a>
 <br/>
 
-<h3>PROGRAMMING LANGUAGES, & DATABASE 🛢</h3>
+<h3>PROGRAMMING LANGUAGES </h3>
 
 <code><img height="35" width="35" alt="Python" src="https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg"></code><!--  Python -->
 <code><img height="35" width="35" src="https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/49/97/49/49974975-18b1-97bb-cc70-049cf9be5e0a/AppIcon-1x_U007emarketing-0-6-0-85-220.png/1200x630wa.png"></code> <!--  MATLAB -->
