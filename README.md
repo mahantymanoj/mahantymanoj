@@ -1,6 +1,11 @@
 👋 Hi there   
 About me 🧑
-
+<br><br>
+5+ years of experience in a Financial Service company, and 1+ year of experience in retails industry working as a Data Engineer.
+Data Enthusiastic, Deliver Quality data, to correct people, at good time.
+Self-Learner, proactive attitude to problem-solving, ability to follow complex instructions, and team player, passionate about continuous learning, creative, and imaginative with an Engineering mindset. 
+Self-motivated, able to interact and communicate, and enthusiastic about learning complex business and technology processes looking forward to contributing my technical and Analytics skill to the organization and developing technical and business awareness.
+<br><br>
 I am a Programmer, Strong Engineering professional skilled in🐍Python, JavaScript,SQL, Advance Excel, MATLAB, and Bloomberg Terminal.<br/>
 Currently, I'm working as an SDE - I Data Engineer, Data Collection team at <a href='https://bungeetech.com/'> Bungee Tech</a>.<br/>
 I am interested in learning Big Data, HDFS, Hadoop Eco System, and Spark ♥️ to grow my knowledge in these Technologies.
