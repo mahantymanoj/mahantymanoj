@@ -89,6 +89,10 @@ Believe in automation, and Working in teams. Currently self Learning Data engine
 <code><img height="35" width="35" src="https://2.python-requests.org/en/v0.10.6/_static/requests-sidebar.png"></code> <!-- request -->
 <code><img height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg"></code> <!-- Matplot lib -->
 
+<h3>Cloud Tools:</h3>
+<code><img height="35" width="35" src="https://p7.hiclipart.com/preview/396/512/43/amazon-com-amazon-s3-amazon-web-services-amazon-elastic-compute-cloud-cloud-computing-amazon-thumbnail.jpg"></code> <!-- S3 -->
+
+
 <h3>Miscellaneous:</h3>
 
 <code><img height="35" width="35" src="https://julialang.gallerycdn.vsassets.io/extensions/julialang/language-julia-insider/1.5.6/1637366211768/Microsoft.VisualStudio.Services.Icons.Default"></code> <!-- Julia -->
