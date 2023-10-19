@@ -91,13 +91,9 @@ Believe in automation, and Working in teams. Currently self Learning Data engine
 
 <h3>Cloud Tools:</h3>
 <code><img height="35" width="35" src="https://p7.hiclipart.com/preview/396/512/43/amazon-com-amazon-s3-amazon-web-services-amazon-elastic-compute-cloud-cloud-computing-amazon-thumbnail.jpg"></code> <!-- S3 -->
+<code><img height="35" width="35" src="https://www.cloudmantra.net/blog/aws-glue-simple-flexible-and-cost-effective-etl/"></code> <!-- Glue job -->
+<code><img height="35" width="35" src="https://www.cloudmantra.net/blog/aws-glue-simple-flexible-and-cost-effective-etl/"></code> <!-- Glue job -->
 
 
-<h3>Miscellaneous:</h3>
 
-<code><img height="35" width="35" src="https://julialang.gallerycdn.vsassets.io/extensions/julialang/language-julia-insider/1.5.6/1637366211768/Microsoft.VisualStudio.Services.Icons.Default"></code> <!-- Julia -->
-<code><img height="35" width="35" src="https://e7.pngegg.com/pngimages/473/621/png-clipart-xml-computer-icons-data-uri-scheme-favicon-xml-angle-text.png"></code> <!-- XML -->
-<code><img height="35" width="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkuY9-iqBPIa7b40cY5diViI7c_vhSoCRuPA&usqp=CAU"></code> <!-- XML -->
-<code><img height="35" width="35" src="https://fileproinfo.com/images/xbrl_file_extension.png"></code> <!-- XBLR -->
-<br/>
 
