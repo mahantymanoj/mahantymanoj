@@ -7,9 +7,32 @@ Self-Learner, proactive attitude to problem-solving, ability to follow complex i
 <br>
 Self-motivated, able to interact and communicate, and enthusiastic about learning complex business and technology processes looking forward to contributing my technical and Analytics skill to the organization and developing technical and business awareness.
 <br><br>
-I am a Programmer, Strong Engineering professional skilled in🐍Python, JavaScript,SQL, Advance Excel, MATLAB, and Bloomberg Terminal.<br/>
 Currently, I'm working as an SDE - I Data Engineer, Data Collection team at <a href='https://bungeetech.com/'> Bungee Tech</a>.<br/>
 I am interested in learning Big Data, HDFS, Hadoop Eco System, and Spark ♥️ to grow my knowledge in these Technologies.
+<br>
+Technical Skills
+<br>--------------------------------------------<br>
+Believe in automation, and Working in teams. Currently self Learning Data engineering tools. <br>
+
+● Domain: Finance Industry 5.1 years, Retail Industry: 1 year <br>
+● BigData: Hadoop, HDFS, MapReduce, SQOOP, Hive, HBase, Scala, Spark, SparkSQL, PySpark. <br>
+● Cloud: AWS S3, AWS Athena, AWS Glue Job, AWS Glue Crawler, AWS Cloudwatch, DynamoDB, AWS RDS. <br>
+● Programming Language: Python, PySpark, MATLAB, NodeJs, Scala. <br>
+● Database & Query Tool: SQL, MySQL, AWS Athena, AWS RDS, AuroraDB, and knowledge of PostgreSQL. <br> 
+● Data Warehouse: Hive, Snowflake, Snowsight. <br>
+● NoSQL: knowledge of MongoDB, and DynamoDB. <br>
+● PyPackages: BeautifulSoup, pyodbc, SQLAlchemy(OORM Object Relational Mapper libraries), FugueSQL. <br>
+● PyLibraries: Pandas, Numpy, Matplotlib, openpyxl, request, urllib, pyathena, boto3. <br>
+● Skills: Data Engineer, Data Analysis, Web Scraping, Data Wrangling, Selenium web driver, worked on EDA. <br>
+● Version Control: Git, and GitHub, CI/CD. <br>
+● Knowledge of JavaScript, and NodeJS. <br>
+
+<br>Tools:<br>
+****************<br>
+● Code Editor: Jupyter Notebook, Spyder, Anaconda, VS Code, MATLAB R2019b, MS Server 17, pgAdmin, Snowflakes, Snowsight, DbViewer, DBSchema, Postman. <br>
+● MS Office 365 and below, Advanced Excel. <br>
+● Data Vendors: Bloomberg Terminal, Capital IQ - DB, MornigStar, Factset, FTSE Russell. <br>
+● HackerRank: Python 5⭐, SQL 4 ⭐ <br> <br><br>
 
 <!-- Here are some ideas to get you started: -->
 
