@@ -50,9 +50,6 @@ Believe in automation, and Working in teams. Currently self Learning Data engine
 <!-- <details> -->
 <!-- <summary> Connect with me🤝: </summary> -->
 <!-- <br/> -->
-**Connect with me🤝:** <a>📧 [mahantymanoj786@gmail.com](mailto:mahantymanoj786@gmail.com).  </a>  <a>📞 8490807799  </a>
-<a href='https://www.linkedin.com/in/manoj-mahanty-aa3769115/'>🗽 LinkedIN  </a>
-<br/>
 
 <a target="_blank"><img align="left" height="600" width="500" alt="𝙶𝙸𝙵" src="https://octodex.github.com/images/mona-the-rivetertocat.png"></a>
 <br/>
